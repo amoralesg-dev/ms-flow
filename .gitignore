@@ -1,0 +1,106 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+bin/
+.gradle/
+
+# Build
+build/
+dist/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Logs
+logs/
+*.log
+log.txt
+
+# Runtime
+*.pid
+*.seed
+*.pid.lock
+
+# Database
+*.db
+*.sqlite
+*.h2.db
+data/
+
+# Environment
+.env
+.env.local
+.env.*.local
+application-local.yml
+application-dev.yml
+application-prod.yml
+
+# Node (if applicable)
+node_modules/
+npm-debug.log
+package-lock.json
+yarn.lock
+
+# OS
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+.~*
+
+# IDE specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Spring Boot
+application.properties.local
+application.yml.local
+
+# Flowable
+flowable.log
+
+# Documentation generated
+docs/generated/
+site/
+
+# Test coverage
+coverage/
+.coverage
+htmlcov/
+
+# Misc
+.abacus.donotdelete
